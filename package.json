@@ -1,0 +1,26 @@
+{
+  "name": "@art-of-coding/port-available",
+  "version": "0.0.1",
+  "description": "Check if a port is available for use",
+  "main": "./dist/index.js",
+  "author": "Michiel van der Velde <michiel@michielvdvelde.nl>",
+  "homepage": "http://github.com/Art-of-Coding/port-available",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Art-of-Coding/port-available.git"
+  },
+  "files": [
+    "dist"
+  ],
+  "engines": {
+    "node": ">=10"
+  },
+  "keywords": [
+    "port",
+    "check",
+    "available",
+    "net",
+    "http"
+  ],
+  "license": "MIT"
+}
